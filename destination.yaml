@@ -14,3 +14,4 @@ spec:
               value: destination
             - name: SCHEME
               value: http
+              
