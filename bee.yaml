@@ -9,5 +9,5 @@ spec:
         - image: moficodes/bee-ui:v0.0.8
           env:
             - name: DESTINATION_URL
-              value: http://destination.aziz-bhy.svc.cluster.local
+              value: http://destination.bee.svc
               
