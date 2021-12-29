@@ -4,4 +4,4 @@ metadata:
   name: config-autoscaler
   namespace: knative-serving 
 data:
-  requests-per-second-target-default: "10"
+  requests-per-second-target-default: "50"
